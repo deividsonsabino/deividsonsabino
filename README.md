@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=deivaotv&color=blueviolet&label=visitas+no+perfil" alt="deivaotv" /> 
   <h1>Deividson Sabino</div>
   <p>Olá, sou o <strong>DEIVAO!</strong></p>
-  <p>Graduado em Sistemas de informação na Universidade Metodis de Piracicaba,
+  <p>Graduado em Sistemas de informação na Universidade Metodista de Piracicaba,
     sou programador a mais ou menos 4 anos, atualmente trabalho com ReactJs | React Native | C#.</p>
   <p>
     Tenho conhecimento em softwares de design como, photshop e gimp, já editei alguns vídeos e até podcast, gosto de fazer de tudo um pouco.</p>
