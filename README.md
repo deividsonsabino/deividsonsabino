@@ -1,6 +1,6 @@
 <div>
   <img src="https://komarev.com/ghpvc/?username=deivaotv&color=blueviolet&label=visitas+no+perfil" alt="deivaotv" /> 
-  <h1>Deividson Sabino</div>
+  <h1>Deividson Sabino</h1>
   <p>Olá, sou o <strong>DEIVAO!</strong></p>
   <p>Graduado em Sistemas de informação na Universidade Metodista de Piracicaba,
     sou programador a mais ou menos 4 anos, atualmente trabalho com ReactJs | React Native | C#.</p>
@@ -12,7 +12,7 @@
   <div align="center">
     <h1>Redes Sociais<h1/>
     <a href="https://twitter.com/deivaotv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/deividson-sabino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/deividson-sabino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/</a>
     <a href="https://www.twitch.tv/deivaotv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   </div>
 </div>
