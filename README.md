@@ -1,17 +1,23 @@
-<div>
-  <img src="https://komarev.com/ghpvc/?username=deivaotv&color=blueviolet&label=visitas+no+perfil" alt="deivaotv" /> 
-  <h1>Deividson Sabino</h1>
-  <p>Olá, sou o <strong>DEIVAO!</strong></p>
-  <p>Graduado em Sistemas de informação na Universidade Metodista de Piracicaba,
-    sou programador a mais ou menos 4 anos, atualmente trabalho com ReactJs | React Native | C#.</p>
-  <p>
-    Tenho conhecimento em softwares de design como, photshop e gimp, já editei alguns vídeos e até podcast, gosto de fazer de tudo um pouco.</p>
-  <p>
-    Hoje em dia trabalho no horario comercial, e no meu tempo livre faço lives na twitch, com conteudo de programação e coisas aletórias também, ando de skate desde os 13 anos onde já corri campeonatos, inclusive já ganhei um em 1# lugar, outra coisa que gosto de fazer e tocar instrumentos musicais, baixo | violão | guitarra, bom é um prazer ter vocês por aqui, fique a vontade para convesar, todos os links para contatos estão mais á frente!
-  </p>
-  <div align="center">
-    <h1>Redes Sociais</h1>
-    <a href="https://www.linkedin.com/in/deividson-sabino/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/</a>
-    <a href="https://www.twitch.tv/deivaotv"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-  </div>
-</div>
+<h1 align="center">Hi 👋, I'm Deividson</h1>
+<h3 align="center">Frontend Developer, Bachelor of Information Systems</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deividsonsabino&" alt="deividsonsabino" /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=deivaotv&color=blueviolet&label=Views" alt="deivaotv" /></p>
+
+<p align="center"> <a href="https://twitter.com/deivaotv" target="blank"><img src="https://img.shields.io/twitter/follow/deivaotv?logo=twitter&style=for-the-badge" alt="deivaotv" /></a> </p>
+<p align="center">
+- 🔭 I’m currently working on [Claro](https://www.clarotvmais.com.br/)
+ </p>
+ <p align="center">
+- 📫 How to reach me **deividsonsabino@outlook.com.br**</p>
+ 
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/deivaotv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deivaotv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deividsonsabino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deividsonsabino" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
